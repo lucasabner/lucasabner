@@ -1,5 +1,5 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm lucas Abner</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasabner&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasabner&color=yellow" alt="Profile views" /> </p> -->
 
 <!--
 **lucasabner/lucasabner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasabner&show_icons=true&theme=vision-friendly-dark" alt="lucasabner's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabner&layout=compact&theme=vision-friendly-dark" alt="lucasabner's most languages"/>
 </p>
