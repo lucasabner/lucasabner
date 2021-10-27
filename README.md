@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabner&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff"/>
 </div> -->
 
-<br><br>
+
 
 
  ## ⚙️ &nbsp;GitHub Analytics
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
+  <br><br>
  
 <div align="left"> 
   <a href="https://www.linkedin.com/in/lucasabner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
